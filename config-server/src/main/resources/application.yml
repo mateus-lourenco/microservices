@@ -7,4 +7,4 @@ spring:
   config:
    server:
     git:
-     uri: C:\Users\mateus.c.lourenco\eclipse-workspace\microservices
+     uri: https://github.com/mateus-lourenco/microservices
